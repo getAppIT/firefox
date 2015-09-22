@@ -1,0 +1,4 @@
+INTERFACE X11  # X11,VNC,SSHtunneling
+SOUND yes
+METAMOUNT .mozilla
+APPLMOUNT .cache
